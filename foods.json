@@ -1,0 +1,493 @@
+[
+    {
+        "name": "Palava Sauce with Boiled Yam",
+        "price": 40.0,
+        "category": "local_food",
+        "image": "/Images/food/Palava-sauce-yam.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Tuo Zaafi with Bra or Ayoyo or Okro",
+        "price": 40.0,
+        "category": "local_food",
+        "image": "/Images/food/Ayoyo Zaafi.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Okro Stew",
+        "price": 40.0,
+        "category": "local_food",
+        "image": "/Images/food/Okro stew.webp",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Red-Red",
+        "price": 45.0,
+        "category": "local_food",
+        "image": "/Images/food/Red-red-9397cc9.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Light Soup",
+        "price": "55.00-60.00",
+        "category": "local_food",
+        "image": "/Images/food/Ghanaian-Light-Soup-Savory-Thoughts-8.jpg",
+        "wait": "20-40 min"
+    },
+
+    {
+        "name": "Roasted Chicked in Mustard Sauce",
+        "price": 55.0,
+        "category": "continental_food",
+        "image": "/Images/food/mustard-roast-chicken-with-spiced-spinach.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Roasted Chicked in Tomato Sauce",
+        "price": 55.0,
+        "category": "continental_food",
+        "image": "/Images/food/roast-chicken-whole-with-tomato-sauce-official.webp",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Tender Chicken in Mushroom sauce",
+        "price": 55.0,
+        "category": "continental_food",
+        "image": "/Images/food/Chicken-with-a-Sherry-Mushroom-Sauce.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Coconut Crusted Chicken with Pineapple Salad",
+        "price": 55.0,
+        "category": "continental_food",
+        "image": "/Images/food/3b37fb6b-4fa3-430e-81b5-1c2b96375b76.avif",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Stir-Fried Chicken with Vegetable",
+        "price": 55.0,
+        "category": "continental_food",
+        "image": "/Images/food/maxresdefault.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Chicken khebab",
+        "price": 55.0,
+        "category": "continental_food",
+        "image": "/Images/food/qjzotbw2hdzlvdcjoarz.webp",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Guinea Fowl in Hot Pepper Sauce",
+        "price": 60.0,
+        "category": "continental_food",
+        "image": "/Images/food/Pintade-aux-epices-du-chasseur.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Grilled Guinea Fowl",
+        "price": 60.0,
+        "category": "continental_food",
+        "image": "/Images/food/how-to-roast-guinea-fowl-1705566149.jpg",
+        "wait": "20-40 min"
+    },
+
+    {
+        "name": "Ice Cream",
+        "price": 30,
+        "category": "dessert",
+        "image": "/Images/food/140877-easy-eggless-strawberry-ice-cream-ddmfs-3x4-1-092e4d11b59049c8b3843014ea3c57f2.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Seasonal Fruit",
+        "price": 25,
+        "category": "dessert",
+        "image": "/Images/food/149.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Fruits with Ice Cream",
+        "price": 40,
+        "category": "dessert",
+
+        "image": "/Images/food/unnamed.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Apple Pie Only",
+        "price": 30,
+        "category": "dessert",
+
+        "image": "/Images/food/apple pie.jpeg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Apple Pie with Ice cream",
+        "price": 45,
+        "category": "dessert",
+
+        "image": "/Images/food/Apple pie with ice cream.jpg",
+        "wait": "20-40 min"
+    },
+
+    {
+        "name": "Club",
+        "price": 40,
+        "category": "sandwiches",
+
+        "image": "/Images/food/club sandwich.webp",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Tomato",
+        "price": 25,
+        "category": "sandwiches",
+
+        "image": "/Images/food/tomato sandwich.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Tuna or Sardine",
+        "price": 30,
+        "category": "sandwiches",
+
+        "image": "/Images/food/sardine-sandwich-recipe.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Cheese",
+        "price": 40,
+        "category": "sandwiches",
+
+        "image": "/Images/food/grilled-cheese.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Beef Burger",
+        "price": 45,
+        "category": "sandwiches",
+
+        "image": "/Images/food/beef burger.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Cheese Burger",
+        "price": 50,
+        "category": "sandwiches",
+
+        "image": "/Images/food/cheese burger.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Egg",
+        "price": 30,
+        "category": "sandwiches",
+
+        "image": "/Images/food/egg sandwich.jpg",
+        "wait": "20-40 min"
+    },
+
+    {
+        "name": "Mixed Salad",
+        "price": 40,
+        "category": "salad",
+
+        "image": "/Images/food/mixed salad.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Nicoise Salad",
+        "price": 40,
+        "category": "salad",
+
+        "image": "/Images/food/Nicoise-Salad-main.webp",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Tomato Salad",
+        "price": 30,
+        "category": "salad",
+
+        "image": "/Images/food/tomato salad.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Green Salad",
+        "price": 30,
+        "category": "salad",
+
+        "image": "/Images/food/Green salad.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Chicken or Gizzard Salad",
+        "price": 40,
+        "category": "salad",
+
+        "image": "/Images/food/Chicken salad.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Tuna or Sardine Salad",
+        "price": 35,
+        "category": "salad",
+
+        "image": "/Images/food/tuna salad.jpg",
+        "wait": "20-40 min"
+    },
+
+    {
+        "name": "Vergetable Soup",
+        "price": 40,
+        "category": "soup",
+
+        "image": "/Images/food/vegetable-soup_thecozyapron_1.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Onion Soup",
+        "price": 30,
+        "category": "soup",
+
+        "image": "/Images/food/onion-soup-featured-2022.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Roated Augerge Soup",
+        "price": 45,
+        "category": "soup",
+
+        "image": "/Images/food/Aubergine-Soup.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Green Pea Soup",
+        "price": 35,
+        "category": "soup",
+
+        "image": "/Images/food/Pea_Soup.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Groundnut Soup",
+        "price": 40,
+        "category": "soup",
+
+        "image": "/Images/food/groundnut soup.jpg",
+        "wait": "20-40 min"
+    },
+
+    {
+        "name": "Spaghetti Bolognese",
+        "price": 50,
+        "category": "pasta",
+
+        "image": "/Images/food/spaghetti-bolognese-106560-1.jpeg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Spaghetti Neopolitan",
+        "price": 40,
+        "category": "pasta",
+
+        "image": "/Images/food/spaghetti-napolitan-002-1200x800.webp",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Spicy Thai Beef",
+        "price": 55,
+        "category": "pasta",
+
+        "image": "/Images/food/spicy thai beef.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Pasta with Braised Chicken Sausage",
+        "price": 50,
+        "category": "pasta",
+
+        "image": "/Images/food/braised pasta.jpg",
+        "wait": "20-40 min"
+    },
+
+    {
+        "name": "Hot Couscous with Vegetable Sauce",
+        "price": 45,
+        "category": "vegetarian",
+
+        "image": "/Images/food/Roasted-Vegetable-Couscous-plate.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Wagashi (Local Cheese) with Soy Aioli",
+        "price": 40,
+        "category": "vegetarian",
+
+        "image": "/Images/food/LocL cheese.jp.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Wagashi with Vegetable",
+        "price": 30,
+        "category": "vegetarian",
+
+        "image": "/Images/food/vege wagashi.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Tomato Tart",
+        "price": 30,
+        "category": "vegetarian",
+
+        "image": "/Images/food/Tomato tart.jpg",
+        "wait": "20-40 min"
+    },
+
+    {
+        "name": "Red Fish",
+        "price": 60,
+        "category": "fish",
+
+        "image": "/Images/food/red fish.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Tilapia (Fried/Grilled)",
+        "price": 80,
+        "category": "fish",
+
+        "image": "/Images/food/tilapia grilled.jpg",
+        "wait": "20-40 min"
+    },
+
+    {
+        "name": "Pepper Steak",
+        "price": 60,
+        "category": "beef",
+
+        "image": "/Images/food/pepper-steak_thecozyapron_1.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Beef Khebab",
+        "price": 60,
+        "category": "beef",
+
+        "image": "/Images/food/Beef-kebabs-easy-skewere-for-grill-or-oven.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Stir-Fried Beef with Vegetable",
+        "price": 55,
+        "category": "beef",
+
+        "image": "/Images/food/Sticky-Beef-Stir-Fry-with-Ginger-and-Soy.jpg",
+        "wait": "20-40 min"
+    },
+
+    {
+        "name": "Yam Chips",
+        "price": 25,
+        "category": "side",
+
+        "image": "/Images/food/yam-chips-2-scaled.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Boiled Yam",
+        "price": 25,
+        "category": "side",
+
+        "image": "/Images/food/phantom.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Potato Chips",
+        "price": 25,
+        "category": "side",
+
+        "image": "/Images/food/patato-finger-chips_9974.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Mashed Potatoes",
+        "price": 25,
+        "category": "side",
+
+        "image": "/Images/food/Mashed-Potatoes-main.webp",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Plain Rice",
+        "price": 25,
+        "category": "side",
+
+        "image": "/Images/food/shutterstock-550853263-huge-licensed-scaled.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Rice Balls",
+        "price": 25,
+        "category": "side",
+
+        "image": "/Images/food/4330b0dc-fe3b-44a6-9dd5-bfd9a0e9cd17.avif",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Jollof Rice",
+        "price": 25,
+        "category": "side",
+
+        "image": "/Images/food/Jollof_Rice_with_Stew.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Fried Rice",
+        "price": 25,
+        "category": "side",
+
+        "image": "/Images/food/easy-chicken-fried-rice-recipe-2098604-hero-01-4cc4085b544e45d4a293c4f05e0c985d.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Fonio Jollof",
+        "price": 25,
+        "category": "side",
+
+        "image": "/Images/food/16506593816201.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Saute Potatoes",
+        "price": 25,
+        "category": "side",
+
+        "image": "/Images/food/FeatureSaute.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Steamed Vegetables",
+        "price": 25,
+        "category": "side",
+
+        "image": "/Images/food/14196t8.jpeg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Collard Greens",
+        "price": 25,
+        "category": "side",
+
+        "image": "/Images/food/51803-kickin-collard-greens-DDMFS-4x3-3905e4f067084b14a4bb14007fb80046.jpg",
+        "wait": "20-40 min"
+    },
+    {
+        "name": "Wakye (On Request)",
+        "price": 25,
+        "category": "side",
+
+        "image": "/Images/food/waakye.jpg",
+        "wait": "20-40 min"
+    }
+]
