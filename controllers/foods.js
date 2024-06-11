@@ -12,7 +12,7 @@ const getAllJobs = async (req, res) => {
         params: { id: jobId },
     } = req
     const food = await Food.find({})
-    if (food.length < 1) {
+    if (!food) {
         throw new badRequesError("No Foods available")
     }
     res.status(StatusCodes.OK).json({ food })
@@ -24,7 +24,7 @@ const getJob = async (req, res) => {
         params: { id: foodId },
     } = req
     const food = await Food.findById({ createdBy: userId, _id: foodId })
-    if (food.length < 0) {
+    if (!food) {
         throw new badRequesError(`No job available for id: ${foodId}`)
     }
     res.status(StatusCodes.OK).json({ food })
@@ -48,7 +48,7 @@ const updateJob = async (req, res) => {
         req.body,
         { new: true, runValidators: true }
     )
-    if (food.length < 1) {
+    if (!food) {
         throw new badRequesError("Failed to Update job")
     }
     res.status(StatusCodes.OK).json({ job })
