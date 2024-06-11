@@ -4,15 +4,12 @@ const { StatusCodes } = require("http-status-codes")
 const { badRequesError } = require("../errors")
 
 const getAllJobs = async (req, res) => {
-    // const { userId, name } = req.user
-    // const { id: jobId } = req.params
-
-    const {
-        user: { userId },
-        params: { id: jobId },
-    } = req
+    // const {
+    //     user: { userId },
+    //     params: { id: jobId },
+    // } = req
     const food = await Food.find({})
-    if (!food) {
+    if (food.length < 1) {
         throw new badRequesError("No Foods available")
     }
     res.status(StatusCodes.OK).json({ food })

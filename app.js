@@ -18,18 +18,19 @@ const errorHandler = require("./middlewares/errorHandlerMiddleware")
 const authMiddleware = require("./middlewares/unAuthMiddleware")
 
 // external middleware
+app.use(cors())
 app.use(express.json())
-app.use(cors)
 
 // routing
-app.use("/api/v1/foods", router)
-app.use("/api/v1/auth", userRouter)
 
-const port = process.env.PORT || 5000
+app.use("/api/v1/auth", userRouter)
+app.use("/api/v1/foods", authMiddleware, router)
+
 // middlewares
 app.use(errorHandler)
 app.use(notFound)
 
+const port = process.env.PORT || 5000
 const start = async () => {
     try {
         await connectDB(process.env.MONGO_URI)
