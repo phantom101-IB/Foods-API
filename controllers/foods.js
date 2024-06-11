@@ -31,20 +31,11 @@ const getJob = async (req, res) => {
 }
 
 const createJob = async (req, res) => {
-    foods.map(async (food) => {
-        const userId = "Phantom101"
-        const fooud = await Food.create({ ...food, createdBy: userId })
+    req.body.createdBy = req.user.userId
 
-        console.log(fooud)
-    })
-
-    // req.body.createdBy = req.user.userId
-
-    // const food = await Food.create({ ...req.body })
-    // res.status(StatusCodes.CREATED).json({ food })
+    const food = await Food.create({ ...req.body })
+    res.status(StatusCodes.CREATED).json({ food })
 }
-
-createJob()
 
 const updateJob = async (req, res) => {
     const {
