@@ -20,6 +20,7 @@ const authMiddleware = require("./middlewares/unAuthMiddleware")
 // external middleware
 app.use(cors())
 app.use(express.json())
+app.use(express.static("./public"))
 
 // routing
 
