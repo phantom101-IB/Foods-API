@@ -24,7 +24,7 @@ app.use(express.json())
 // routing
 
 app.use("/api/v1/auth", userRouter)
-app.use("/api/v1/foods", authMiddleware, router)
+app.use("/api/v1/foods", router)
 
 // middlewares
 app.use(errorHandler)
